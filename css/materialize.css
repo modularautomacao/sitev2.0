@@ -4,6 +4,16 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
  
+ .navbar-default{
+	transition-duration: 0.5s;
+	position: fixed;
+	height: 64px;
+	z-index: 1000;
+	width:100%;
+	box-shadow: none;
+	line-height: 64px;
+}
+ 
 .modular-grey {
   color: #1a1a1a !important;
 }
