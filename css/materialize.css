@@ -3392,8 +3392,8 @@ input[type=range] + .thumb {
 }
 
 .section {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+	padding-top: 5rem;
+	padding-bottom: 1rem;
 }
 
 .section.no-pad {
@@ -4333,6 +4333,12 @@ h6 {
 
 h7 {
   font-size: 1.64rem;
+  line-height: 110%;
+  margin: 0.1rem 0 0.1rem 0;
+}
+
+h8 {
+  font-size: 1.4rem;
   line-height: 110%;
   margin: 0.1rem 0 0.1rem 0;
 }
